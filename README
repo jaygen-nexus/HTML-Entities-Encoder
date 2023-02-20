@@ -1,2 +1,5 @@
-Simple HTML Entities Encoder for your requirements.
+This HTML Entities Encoder is a web application built using HTML, CSS, and JavaScript that allows users to encode text into HTML entities. It provides an easy-to-use
+interface for users to input their text and select the desired encoding type. The application then encodes the text into the selected HTML entity format and displays the
+result. This tool is useful for web developers who need to encode text for use in webpages or other applications.
+
 Enjoy the commit & share your feedback also if wanna contribute show up in the pull requests!
